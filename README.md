@@ -26,4 +26,5 @@ __Description:__ Provides e-commerce services. All Products are fetched using RE
 
 * __Language:__ Java
 * __IDE:__ Android Studio
-* __Database:__ RESTful API
+* __Server side:__ Python
+* RESTFul API
